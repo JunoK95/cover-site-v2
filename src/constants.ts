@@ -6,17 +6,17 @@ export const SOCIALS = [
 export const WORKS = [
   {
     id: "01",
-    title: "Task Management Desktop SaaS",
-    category: "SaaS / Full-Stack",
-    year: "2024",
-    href: "https://github.com/JunoK95/task-management-electron-app",
+    title: "JunoUI Design System",
+    category: "Component Library",
+    year: "2026",
+    href: "https://juno-ui.onrender.com/",
   },
   {
     id: "02",
-    title: "JunoUI Design System",
-    category: "Component Library",
-    year: "2024",
-    href: "https://juno-ui.onrender.com/",
+    title: "Task Management Desktop SaaS",
+    category: "SaaS / Full-Stack",
+    year: "2025",
+    href: "https://github.com/JunoK95/task-management-electron-app",
   },
   {
     id: "03",
