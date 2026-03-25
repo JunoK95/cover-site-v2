@@ -14,13 +14,13 @@ Frontend developer & designer with 7+ years of experience building scalable, per
 
 ## Selected Work
 
-| Project | Stack | Year |
-|---|---|---|
-| [Task Management Desktop SaaS](https://github.com/JunoK95/task-management-electron-app) | Electron / Full-Stack | 2024 |
-| [JunoUI Design System](https://juno-ui.onrender.com/) | Component Library | 2024 |
-| [POGR Landing Page](https://pogr.gg/) | React / Next.js | 2023 |
-| [POGR Analytics Dashboard](https://pogr.io) | Data Visualization | 2023 |
-| [Portfolio v1](https://www.junokim.site/) | Design / Code | 2022 |
+| Project                                                                                 | Stack                 | Year |
+| --------------------------------------------------------------------------------------- | --------------------- | ---- |
+| [Task Management Desktop SaaS](https://github.com/JunoK95/task-management-electron-app) | Electron / Full-Stack | 2025 |
+| [JunoUI Design System](https://juno-ui.onrender.com/)                                   | Component Library     | 2026 |
+| [POGR Landing Page](https://pogr.gg/)                                                   | React / Next.js       | 2023 |
+| [POGR Analytics Dashboard](https://pogr.io)                                             | Data Visualization    | 2023 |
+| [Portfolio v1](https://www.junokim.site/)                                               | Design / Code         | 2022 |
 
 ## Skills
 
