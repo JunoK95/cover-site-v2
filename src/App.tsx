@@ -48,7 +48,7 @@ function App() {
         style={{
           position: "fixed",
           inset: 0,
-          background: "#0a0a0a",
+          background: theme === "dark" ? "#f9f8f6" : "#0a0a0a",
           zIndex: 45,
           pointerEvents: "none",
           clipPath: revealed
